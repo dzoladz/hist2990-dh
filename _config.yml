@@ -1,0 +1,37 @@
+# Site settings
+baseurl: "/courses/dph.2016"
+url: "http://jasonheppler.org/courses/dph.2016/"
+source: source
+destination: public
+
+# Build settings
+gems: 
+  - jekyll-pandoc
+markdown: Pandoc
+pandoc:
+  extensions:
+    - smart
+permalink: pretty
+lsi: false
+
+# Draft or not?
+draft: true
+
+# Course information
+title: "Digital History: Concepts, Methods, Problems"
+course_catalog: https://explorecourses.stanford.edu/browse
+course_credithours: 3
+course_department: Dept. of History
+course_university: Stanford Univ.
+course_meetingtime: "Thursdays, 1:30 to 4:20 p.m."
+course_number: "HIST 205F"
+course_room: "Building 200-105"
+course_semester: "Fall 2016"
+# course_blog: 
+instructor_email: jheppler@stanford.edu
+instructor_name: Jason Heppler
+instructor_office: "Lane History Corner 122"
+instructor_officehours: "Tuesday, 10:00am-11:30am, or by appointment"
+instructor_skype: hepplerj
+# instructor_officehours_link: http://jasonheppler.org/officehours
+instructor_website: http://jasonheppler.org
