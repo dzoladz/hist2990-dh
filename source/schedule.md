@@ -5,218 +5,378 @@ title: Course Schedule
 permalink: '/schedule/'
 ...
 
-Since we're spending three hours together once a week, I've set up the schedule into "halves" for each class. We'll meet for roughly an hour and a half, take a fifteen minute break, and reconvene for the remainder of the class. The first half of the class will either revolve around a guest, lecture, or reading discussion. The second half may vary with reading discussion, tool discussion, or getting hands-on with a tool.
+All assignments or blog posts given on Thursday are due before the start of class on Tuesday. With the exception of our first week, think of Tuesday as lecture days and Thursdays as lab days.
 
-Note that readings are due on the date under which they are listed. For example, on September 29 we are discussing public history, so you should spend the week prior completing the readings, assignments, and prior-to-class exercises.
+TODO: weeks I"ll be gone for conferences
 
-## Week 1: What is Public History?
+----
 
-### September 29
+UNIT 1
 
-1. Prior to class, sign up for a domain name and hosting space with Reclaim Hosting: <http://reclaimhosting.com/>
-2. Install and customize WordPress: <http://docs.reclaimhosting.com/Getting­Started­with­Reclaim­Hosting/Installing­WordPress/>
-	- Blog set­up refresher (Getting Started with WordPress: <https://codex.wordpress.org/Getting_Started_with_WordPress>)
+- intro to DH
+- intro to enviro. history
 
-#### Readings:
+UNIT 2 Conservation
 
--	Ronald J. Grele, "[Whose Public? Whose History? What is the Goal of Public History?](http://www.jstor.org/stable/3377160)" *The Public Historian* vol. 3 no. 1 (Winter 1981): 40--48.
--	Richard Weible, "[Defining Public History: Is It Possible? Is It Necessary?](https://www.historians.org/publications-and-directories/perspectives-on-history/march-2008/defining-public-history-is-it-possible-is-it-necessary)," *Perspectives* (March 2008).
--	History@Work, "[Reflections on the Founding of NCPH](http://ncph.org/history-at-work/reflections-on-the-founding-of-ncph/)," February 13, 2015.
--	John Dichtl and Robert B. Townsend, "[A Picture of Public History: Preliminary Results from the Survey of Public History Professionals](https://www.historians.org/publications-and-directories/perspectives-on-history/september-2009/a-picture-of-public-history)," *Perspectives on History*, September 2009.
--	Andrew Hurley, "[Chasing the Frontiers of Digital Technology: Public History Meets the Digital Divide](http://tph.ucpress.edu/content/38/1/69.full.pdf+html)," *The Public Historian* vol. 38 no. 1 (February 2016): 69--88.
+UNIT 3 Lit and the Landscape
 
-#### Assignments:
+UNIT 4 Environmentalism
 
--	Please complete the [pre-class survey](https://docs.google.com/forms/d/e/1FAIpQLScIE6hmi4BJ4EvV9zxHLb0uWMTn4UsRvL3Iu9qE8YvPXgiA9w/viewform) by the end of the week (**September 30**)
--	Introductory post on your blog
--	Reading response blog post
+UNIT 5 Global Challenges
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLScFTzDKCIbUCSGSVpe90__PUSYN0v1wKfEY7xLICCplF3O4YA/viewform)
+UNIT 6 Toxics
 
-## Week 2: What is Digital History?
+UNIT 7 Anthropocene
 
-### October 6
 
-#### Readings:
+ideas:
+- enviro. impact of streaming music
 
--   "Interchange: The Promise of Digital History," *Journal of American History* (2008)
--   "This is Why We Fight: Defining the Values of the Digital Humanities," *Debates in the Digital Humanities*
--   Roopika Risam, "Beyond the Margins: Intersectionality and the Digital Humanities," *Digital Humanities Quarterly*
--	  Lara Putnam, "[The Transnational and the Text-Searchable: Digitized Sources and the Shadows They Cast](http://ahr.oxfordjournals.org/content/121/2/377.full.pdf)," *American Historical Review* vol. 121 no. 2 (2016): 377-402.
--   Stephen Robertson, "[The Differences between Digital Humanities and Digital History](http://dhdebates.gc.cuny.edu/debates/text/76)" *Debates in Digital Humanities*
+----
 
-#### Assignments:
+## Jan. 9: Introductions
 
--	Comparative digital public history project
--	Reading response blog post
--	[Sign up for discussion leader spots](). These start next week, so you'll need to be signed up before the end of the weekend (**October 8**).
+### Readings
 
-## Week 3: Audience
+Prior to class, please spend some time perusing the following:
 
-### October 13
+- William Cronon, "[How to Read a Landscape](http://www.williamcronon.net/researching/landscapes.htm)"
+- Center for Culture, History, and Environment, "[Reading an Urban Landscape](http://nelson.wisc.edu/che/events/place-based-workshops/2009/project/index.php)"
+- Caleb McDaniel, "How to Read for History", August 1, 2008
 
-#### Readings:
+### In class
 
--	  Katharine T. Corbett and Howard S. (Dick) Miller, "[A Shared Inquiry into Shared Inquiry](http://www.jstor.org/stable/10.1525/tph.2006.28.1.15)," *The Public Historian*, Vol. 28, No. 1 (Winter 2006) 15­38.
--	  Michael Frisch, "From A Shared Authority to the Digital Kitchen, and Back," in *Letting Go?: Sharing Historical Authority in a User­ Generated World*. Edited by Bill Adair, Benjamin Filene, and Laura Koloski (Philadelphia: The Pew Center for Arts and Heritage, 2011) 126­--137.
--   Roy Rosenzweig, "[Can History be Open Source? Wikipedia and the Future of the Past](http://chnm.gmu.edu/essays-on-history-new-media/essays/?essayid=42)," *The Journal of American History* vol. 93, no. 1 (June 2006): 117--146.
+- Orientation to class
+- [Environment & Society Portal Multimedia Library](http://www.environmentandsociety.org/mml/collection/16225?tid=All&items_per_page=15&order=field_date_partial_publication&sort=asc)
 
-#### Assignments:
+### Assignment
 
--	One paragraph project idea pitch for a digital public history project.
--	Comparative review of a physical public history site and its digital presence.
+- Sign up for web hosting at [Reclaim Hosting](http://reclaimhosting.com). Think carefully about your domain name.
+- Please fill out the following forms **before Saturday, January 13**
+  - Are you a digital native?
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSciPkECas2CwVhc4G2moTczI_KcWw_qO3sNZm6Thc5DgGCmVw/viewform)
+## Jan. 11: Defining Digital History
 
-## Week 4: Collections
+### Readings
 
-### October 20
+- Dan Cohen and Roy Rosenzweig, *Digital History*, [Introduction](), [Chapter 1]()
+- Roy Rosenzweig, "Can History be Open Source? Wikipedia and the Future of the Past"
+- Stephen Robertson, "The Differences Between Digital History and Digital Humanities"
+- Miriam Posner, "How Did They Make That?," August 29, 2013.
+- Miriam Posner, Stewart Varner, and Brian Croxall, "Creating Your Web Presence," *ProfHacker*, February 14, 2011.
 
-**No class**. Instructor away at a conference.
+### In class
 
-#### Readings:
+- Introduction to digital history
+- Introduction to Zotero
 
--	Trevor Owens, "What Do You Mean by Archive? Genres of Usage for Digital Preservers | The Signal: Digital Preservation," Blog, The Signal: Digital Preservation, (February 27, 2014), <http://blogs.loc.gov/digitalpreservation/2014/02/what­do­you­mean­by­archive­genres­of­ usage­for­digital­preservers/>.
--	"Metadata," JISC Digital Media, <http://www.jiscdigitalmedia.ac.uk/infokit/metadata/metadata­home>
--	Sheila A Brennan and T. Mills Kelly, "Why Collecting History Online Is Web 1.5," Roy Rosenzweig Center for History and New Media, March 2009, <http://chnm.gmu.edu/essays­on­history­new­media/essays/?essayid=47>.
--	Tim Sherratt, "It's All About the Stuff: Collections, Interfaces, Power, and People," *Journal of Digital Humanities* 1, no. 1 (March 9, 2012), <http://journalofdigitalhumanities.org/1­1/its­all­about­the­stuff­by­tim­sherratt/>
--   Jefferson Bailey, "Disrespect des Fonds: Rethinking Arrangement and Description in Born-Digital Archives" *Archives Remixed* <http://www.archivejournal.net/issue/3/archives-remixed/disrespect-des-fonds-rethinking-arrangement-and-description-in-born-digital-archives/>.
+### Assignment
 
-#### Assignments:
+Write a blog post reviewing one of the following digital history projects. What topic, period, and place of history does it cover? What argument or interpretation do they make? What is the audience? What sources is the project based on? Who created them, and who did what work? Who funded them? What technologies did they use? Include screenshots of important parts of the website.
 
--	Explore public history sites:
-	-	Hurricane Digital Memory Bank
-	-	Histories of the National Mall
-	-	Flickr Commons
-	-	National Archives, Citizen Archivist Dashboard
--	Begin building a collection in Curatescape
--	Reading response blog
+- Digital Harlem
+- Geography of the Post
+- Machines in the Valley
+- Her Hat Was in the Ring
+- HistoryPin
+- Histories of the National Mall
+- Language of the State of the Union
+- Locating London's Past
+- Lost Museum
+- New Orleans Historical
+- Old Bailey Online
+- Orbis
+- Papers of the War Department
+- Railroads and the Making of Modern America
+- Redlining Richmond
+- Voting America
+- Women Writer's Project
+- Viral Texts
+- 6 Degrees of Bacon
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSfOrJl36kpOaW-zu6Ab_khOGMIAptrtxo94OOAUFJfsYGDGVw/viewform)
+## UNIT 1: Maps, Texts, Networks
 
-## Week 5: Narrative and Interpretation
+## Jan. 16: Themes in Environmental History
 
-### October 27
+### Readings
 
-#### Readings:
+- Donald Worster, "Doing Environmental History," in Worster, ed., *The Ends of the Earth: Perspectives on Modern Environmental History* (New York: Cambridge University Press, 1988), 289-307.
+- William Cronon, "A Place for Stories: Nature, History, and Narrative," in *Journal of American History* vol. 78 no. 4 (1992).
+- Christine Meisner Rosen and Joel Tarr, "The Importance of an Urban Perspective in Environmental History," *Journal of Urban History* 20 (May 1994): 229-310.
 
--	Wyman, B., Smith, S., Meyers, D. and Godfrey, M. (2011), "Digital Storytelling in Museums: Observations and Best Practices." *Curator: The Museum Journal*, 54:4 (October 2011): 461--468.
--	Steve Lubar, "The Curator Rules," *On Public Humanities*, February 7, 2015, <https://stevenlubar.wordpress.com/2015/02/07/creative­curation­curatorial­rules­and­when­to­break­them/>.
--	Shawn Medero, "Paper Prototyping," A List Apart (January 23, 2007).
--	Suzanne Fischer, "Developing your Synthetic Powers," History@Work, (March 13, 2015) <http://publichistorycommons.org/developing­your­synthetic­powers/>
--	Erin Kissane, "A Checklist for Content Work," A List Apart, March 8, 2011, <http://alistapart.com/article/a-checklist-for-content-work>.
-- Brennan, "Getting to the Stuff: Digital Cultural Heritage Collections, Absence, and Memory"
+## Jan. 18: Finding sources and the history of the Internet
 
-#### Assignments:
+### Readings
 
--	Begin building the infrastructure of your public history exhibit:
-	-	Explore the Curatescape Stories feature.
-	-	Use the material from your content template guide to create material for one section of your exhibit.
--   **[Project proposal due](/courses/dph-2016/assignments/)**
--	Reading response blog
+- Roy Rosenzweig, "Can History Be Open Source: Wikipedia and the Future of the Past," *Journal of American History* vol. 93 no. 1 (2006).
+- "How the World Came to be Run by Computer Code," BBC
+- "The Web at 25 in the U.S.," Pew Research, February 27, 2014.
+- Vannevar Bush, "As We May Think," *The Atlantic* (July 1945).
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSdCXIPxy-75oCFMy7TOJMwOTjeEaEItDfn4-XzSAM_pb20Nrw/viewform)
+### In class
 
-## Week 6: Community History
+- UNO library catalog
+- JSTOR
+- Chicago Manual of Style
 
-### November 3
+### Assignment
 
-#### Readings:
+Using the library catalog, JSTOR, or other library resources, find a book on environmental history and a journal article on environmental hsitory. Check the book out of the library and bring it to class on Tuesday. Write a blog post with the correct citation format outlined in the Chicago Manual of Style. In a paragraph for each, summarize their argument. Add these items to your Zotero library and include a link to your public Zotero library in your blog post.
 
--	Tammy S. Gordon, "Community Exhibition: History, Identity, and Dialogue," *Private History in Public: Exhibition and the Settings of Everyday Life* (Lanham: AltaMira Press, 2010). 33­--57.
--	Lauren Gutterman, "OutHistory.org: An Experiment in LGBTQ Community History­Making," *The Public Historian* (32:4) (2010).
+## Jan. 23: Places, people, and the past
 
-### Assignments:
+### Readings
 
--	Explore sites:
-	-	Baltimore '68: Riots and Rebirth
-	-	OutHistory.org
-	-	Virtual Watervliet
--	Reading / website response blog post
--	Project progress update blog post
+- Harl Dalstrom, et al., *Upstream Metropolis: An Urban Biography of Omaha and Council Bluffs*, 3-71.
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSc--WrjBckZNb8_e-VGJNV0qZ91RV56ZHudrF-6fb88iL49MQ/viewform)
+### In class
 
-## Week 7: Oral History
+- digital collection
 
-### November 10
+## Jan. 25: Finding primary sources
 
-#### Readings:
+### Readings
 
--	Groce, Nancy, and Bertram Lyons. "Designing a National Online Oral History Collecting Initiative: The Occupational Folklore Project at the American Folklife Center." *Oral History Review* 40, no. 1 (January 1, 2013): 54--66.
-- Frisch, "Oral History and the Digital Revolution"
-- OHA ethical guidelines: <http://www.oralhistory.org/?s=ethical+guidelines>
-- Jack Daugherty, "Who Owns Oral History?" <http://ontheline.trincoll.edu/oralhistory/creativecommons/>
+- Sam Wineburg, "Thinking Like a Historian," *Teaching with Primary Sources Quarterly* vol. 3 no. 1 (Winter 2010).
 
-#### Assignments:
+### In class
 
--	Explore sites:
-	-	Oral History in the Digital Age, http://ohda.matrix.msu.edu/
-	-	Nevada Test Site Oral History Project, http://digital.library.unlv.edu/ntsohp/ 
-	-	Bracero History Archive, http://bracerohistory.org
-	-	American Folklife Center, http://www.loc.gov/folklife/
--	Reading / website response blog post
--	Project progress update blog post
+- Digital Public Library of America
+- ProQuest Historical Newspapers
+- Omaha World Herald Online
+- Databases listed in the library's history guide
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSfrFtD4y0p-o7wxsW8GLLXn4VJ6E9sMeDvDhnc-bFuM6V0oog/viewform)
+### Assignment
 
-## Week 8: Mobile
+Find five primary sources from at least three different collections. Add these sources to Zotero. Write a blog post that cites the items using correct Chicago citations and indicate the databases they came from. Summarize each source. What did you learn from reading the source? What did you learn about looking for sources and the reliability of sources online?
 
-### November 17
+## Jan. 30: Metadata and Omeka
 
-#### Readings:
+### Readings
 
--	  Deborah Boyer and Josh Marcus, "[Implementing Mobile Augmented Reality Applications for Cultural Institutions](http://www.museumsandtheweb.com/mw2011/papers/implementing_mobile_augmented_reality_applicat.html)," *Museums and the Web 2011*.
--	  Brad Baer, Emily Fry, and Daniel Davis. "[Beyond the Screen: Creating interactives that are location, time, preference, and skill responsive](http://mw2014.museumsandtheweb.com/paper/beyond-the-screen-creating-interactives-that-are-location-time-preference-and-skill-responsive/)." *MW2014: Museums and the Web 2014*. Published February 1, 2014.
--	  Mark Tebeau, "[Listening to the City: Oral History and Place in the Digital Era](http://ohr.oxfordjournals.org/content/40/1/25.abstract)." *Oral History Review* 40, no. 1 (January 1, 2013): 25--35.
--   Sharon Leon, Sheila Brennan, and David Lester, "[Mobile for Museums](http://digilib.gmu.edu/xmlui/handle/1920/9819)"
+- Miriam Posner, "Up and Running with Omeka," *The Programming Historian* (2013).
+- Explore Dublin Core, "Metadata Basics."
+- Dan Cohen and Roy Rosenzweig, "Owning the Past," in *Digital History*.
+- Bailey, "Disrespect des Fonds: Rethinking Arrangement and Description in Born-Digital Archives"
 
-#### Assignments:
+### In class
 
--	Explore sites:
-	-	Spokane Historical
-	-	Histories of the National Mall
-	-	Driving Through Time
-	-	Walking Cinema
--	Reading / website response blog post
--	Project progress update blog post
+- American Library Association, "[Digital Copyright Slider](http://librarycopyright.net/resources/digitalslider/index.html)" (2012)
+- [Creative Commons licenses](https://creativecommons.org/licenses/)
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSc-AL8hNoVPROV4hx6y2_jqEnZT7EnNG59X_qpnmwnHurSR3A/viewform)
+### Assignment
 
-## Week 9: Drafts
+Using the primary sources from your previous exercise, or other sources that you have found, create an Omeka collection with at least five Omeka items. Each item must be fully described in the metadata, but you don't necessarily need every Dublin Core field. Be sure to include a reference to the place you found the source and a copyright statement as appropriate.
 
-### November 24
+## Feb. 1: Progressive Conservation
 
-No class. Work on projects.
+### Readings
 
-#### Assignments:
+- Stradling, *Conservation in the Progressive Era: Classic Texts*, vii-106.
+- Jennifer Price, "When Women were Women, Men were Men, and Birds were Hats," in *Flight Maps* (Basic, 1999), 57-109.
 
--	Sign up for a meeting with the instructor to check in on progress (by **November 24**). If no spots are available that work for your schedule, we will make different arrangements.
+### Assignments
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSfFhydWrZIh2qatxgLJnPCOMsimweCyRSsDQzFksbHBptzfIw/viewform)
+Before the next class, install the [ExhibitBuilder](http://omeka.org/add-ons/plugins/exhibit-builder/) plugin on your Omeka site ([here's how to do that](https://community.reclaimhosting.com/t/uploading-plugins-to-omeka/195)). Make sure the Omeka site has at least five interesting items that work well together to tell a coherent story about some aspect of environmental history. If you need more sources, go looking for more.
 
-## Week 10: Evaluation
+## Feb. 6: Omeka Exhibits
 
-### December 1 
+### Readings
 
-#### Readings:
+- [ExhibitBuilder tutorial](http://omeka.org/codex/Plugins/ExhibitBuilder_3.0)
 
--   Hallie Preskill, "[Museum Evaluation without Borders: Four Imperatives for Making Museum Evaluation More Relevant, Credible, and Useful](http://onlinelibrary.wiley.com/doi/10.1111/j.2151-6952.2010.00072.x/abstract)," *Curator: The Museum Journal* 54:1 (January 2011): 93­100.
--   Craig MacDonald, "[Assessing the User Experience (UX) of Online Museum Collections: Perspectives from Design and Museum Professionals](http://mw2015.museumsandtheweb.com/paper/assessing-the-user-experience-ux-of-online-museum-collections-perspectives-from-design-and-museum-professionals/)," *MW2015: Museums and the Web 2015*, February 1, 2015.
--   [NEH Start-up guidelines](http://www.neh.gov/files/grants/digital-humanities-start-sept-16-2015.pdf), Section IV, Part 4 on narrative. Compare how [this NYPL proposal](http://digital.nypl.org/mmpco/docs/narrative.pdf) illustrates those sections.
--   Explore [IMLS Evaluation Resources](https://www.imls.gov/research­evaluation/evaluation­resources)
--   Matthew G. Kirschenbaum, "[Done: Finishing Projects in the Digital Humanities](http://www.digitalhumanities.org/dhq/vol/3/2/000037/000037.html"), *Digital Humanities Quarterly* 
+### In class
 
-#### Assignments:
+Sample exhibits:
 
--   Draft an evaluation plan for your project
+- Exhibit 1
+- Exhibit 2
 
-[Anything you want me to know?](https://docs.google.com/forms/d/e/1FAIpQLSfdV4bMvi_6KcYXAWoTksGVGW7UeJrwfGpL3xk5iwKkExFKCg/viewform)
+### Assignment
 
-## Week 11: Project Presentations
+Create an Omeka exhibit that tells a story about some aspect of environmental history. The exhibit should include, at a minimum, five items, each with metadata and in most cases images. Link these items together with prose (no less than 750 words). **Due by Saturday, March 3**.
 
-### December 8
+## Feb. 8: Georeferencing
 
-Project presentations, Wallenberg Learning Theater, 1:30-4pm. Refreshments will be provided.
+### Before class
 
-Final materials due **December 9**. Please submit your final URL to your exhibit, and write your final reflection blog post on the process. 
+- Pick a map from the David Rumsey Map Collection
+- Create an account at MapWarper.
+
+### Readings
+
+- Richard White, "What is Spatial History?"
+- Cameron Blevins, ""
+- Georectification from "Spatial Humanities Workshop"
+
+### In class
+
+- David Rumsey Map Collection
+- Stanford Spatial History Project
+
+### Assignment
+
+Georectify your historical map. Embed it in a blog post explaining what you learned from the map and how georeferencing maps might be useful in understanding environmental history. Be sure to include a citation to the map and acknowledge permissions that have been granted.
+
+## Feb. 13: Midterms
+
+Bring a blue book and pen.
+
+## Feb. 15: Disaster and the State
+
+### Readings
+
+- Donald Worster, *Dust Bowl*, 3-97, 182-254
+
+## Feb. 20: Environmental Anxiety Emergent
+
+### Readings
+
+- Thomas Jundt, *Greening the Red, White, and Blue: The Bomb, Big Business, and Consumer Resistance in Postwar America*, 11-47.
+- Jacob Darwin Hamblin, *Arming Mother Nature: The Birth of Catastrophic Environmentalism*, 3-36.
+
+## Feb. 22: The Rise of Environmentalism
+
+### Readings
+
+- Carson, "A Fable for Tomorrow"
+- Carson, *Silent Spring*, pp.
+
+## Feb. 27: Mapping
+
+### Before class
+
+- Sign up for an account at CARTO
+
+### Readings
+
+- Stephen Robertson, "Putting Harlem on the Map"
+
+### Assignment
+
+Using the sample datasets provided, create a map in CARTO. The map should communicate its subject clearly, using annotations and labels as necessary. Embed the map in a blog post and write about what you learned from making the map and the map itself.
+
+## Mar. 1: Radical Environmentalism
+
+### Readings
+
+- Frank Zelko, *Make it a Green Peace! The Rise of Countercultural Environmentalism*, 3-32
+- Ric Scarce, "Earth First! Cracking the Mold," from *Eco-Warriors* (pp. 66-85)
+- Judi Bari, "The Feminization of Earth First!," from *Timber Wars*
+
+## Mar. 6: Distant Reading, Text Analysis, and Visualization
+
+### Readings
+
+- Ted Underwood, Seven ways humanists are using computers to understand text
+- Blevins, "Topic Modeling Martha Ballard's Diary"
+- Look through Mining the Dispatch
+- Dan Cohen, "Searchig for the Victorians," October 4, 2010
+
+### In class
+
+- Voyant
+- Google Books NGram Viewer
+
+### Assignment
+
+Using Voyant, create visualizations of the Earth First! journals (text provided by the instructor). Embed these visualizations in a blog post. What did you learn through distant reading? What does this approach reveal that other historical methods cannot or do not?
+
+## Mar. ##: Towards Earth Day
+
+### Readings
+
+- Fred Turner, *From Counterculture to Cyberculture*, 1-68
+
+## Mar. 8: Uncertain Futures
+
+### Readings
+
+- energy crisis readings
+- climate change readings
+
+## Mar. 13: Visualization
+
+Before class, sign up for a free account with Plotly.
+
+### Readings
+
+- Fred Gibbs, "Gentle Introduction to Historical Data Analysis"
+- John Theibault, "Visualizations and Historical Arguments," in *Writing History in the Digital Age* (University of Michigan Press, 2013)
+
+### In class
+
+- Minard map
+
+### Assignment
+
+Using the datasets provided, create at least three visualizations with Plotly. Be sure to use titles and captions, and cite the data you use. What does the visualization show you that you didn't see before? Embed the visualizations in a blog post.
+
+## Mar. 15: The Enduring Crisis
+
+### Readings
+
+- Toxics
+
+## Mar. 18-25: Spring Break
+
+## Mar. 27: Programming and machine learning
+
+### Readings
+
+- Paul Ford, "What is Code," *Business Week*, June 11, 2015
+- Lev Manovich, "The Algorithms of Our Lives," *Chronicle of Higher Education*, December 16, 2013
+- Ian Bogost, "The Cathedral of Computation," *The Atlantic*, January 15, 2015
+
+### Assignment
+
+Write a blog post about the programming we did in class. Have you programmed before? Why or why not? Can you see a use for programming in the humanities? For your major? Include images of your output if they aid your argument.
+
+## Mar. 27: The climate
+
+### Readings
+
+- climate change debates
+
+## Mar. 29: Sustainability and ethics
+
+### Readings
+
+- Kieran Healy, "Using Metadata to Find Paul Revere," June 9, 2013
+- Mat Honan, "How Apple and Amazon Security Flaws Led to My Epic Hacking," *Wired*, August 6, 2012
+- Eli Pariser, "Beware online 'filter bubbles'"
+- Dan Cohen and Roy Rosenzweig, "Preserving Digital History"
+- James Baker, "Preserving Your Research Data," *The Programming Historian*, April 30, 2014
+
+### In class
+
+- Internet Archive
+- Wayback Machine
+
+### Assignment
+
+Write a blog post about the sustainability of your work in this course. What would it take to sustain each assignment you created? Which assignments have you been able to export?
+
+## Apr. 3
+
+## Apr. 5
+
+## Apr. 10
+
+## Apr. 12
+
+## Apr. 17
+
+## Apr. 19
+
+## Apr. 24
+
+No class. Work on portfolio.
+
+## Apr. 26
+
+There is no final exam.
+
+Portfolio is due April 24. Create a page on your website which links all of the assignments and blog posts you have created for the course. Write up what each assignment contributed to understanding environmental history, and tie these assignments together with prose about this hsitory. The total length of this text should be around 250 words.
+
+On April 26, we will hold an electronic poster session in Criss Library to showcase the work you've completed for the course. Come prepared to show off, answer questions, engage with visitors, and enjoy refreshments!

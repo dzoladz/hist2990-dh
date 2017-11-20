@@ -1,6 +1,6 @@
 body {
   margin: 4rem 0 4rem 0;
-  font-family: 'Open Sans', sans-serif;
+  font-family: Lato, 'Open Sans', sans-serif;
   background: #fff;
 }
 
@@ -98,7 +98,7 @@ li p {
 
 table {
   min-width: 30rem;
-  line-height: 1rem;
+  line-height: 1.5rem;
 }
 
 td {
@@ -111,6 +111,13 @@ td {
   margin-bottom: -0.2rem;
 }
 
+.footnoteRef {
+  text-decoration: none; 
+}
+
+section.footnotes {
+  font-size: 0.8em;
+}
 
 figure {
   margin: 0;

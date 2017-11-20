@@ -47,6 +47,13 @@
               <a href="mailto:{{ site.instructor_email }}">{{ site.instructor_email }}</a>,
               {{ site.instructor_office }}.
             </p>
+            <p>
+            {% if site.course_twitter %}
+                Twitter hashtag: <a href="https://twitter.com/search?f=tweets&q=%23su_dh&src=typd"> {{ site.course_twitter }}</a>.
+              {% else %}
+                {{ site.course_twitter }}.
+              {% endif %}
+            </p>
           </div>
         </div>
       {% endif %}

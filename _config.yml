@@ -1,6 +1,6 @@
 # Site settings
-baseurl: "/courses/dph.2016"
-url: "http://jasonheppler.org/courses/dph.2016/"
+baseurl: "/courses/dh.2018"
+url: "http://jasonheppler.org/courses/dh.2018/"
 source: source
 destination: public
 
@@ -18,20 +18,21 @@ lsi: false
 draft: true
 
 # Course information
-title: "Digital History: Concepts, Methods, Problems"
-course_catalog: https://explorecourses.stanford.edu/browse
+title: "Introduction to Digital Humanities"
+course_catalog: https://www.unomaha.edu/registrar/catalog.php 
 course_credithours: 3
 course_department: Dept. of History
-course_university: Stanford Univ.
-course_meetingtime: "Thursdays, 1:30 to 4:20 p.m."
-course_number: "HIST 205F"
-course_room: "Building 200-105"
-course_semester: "Fall 2016"
+course_university: Univ. of Nebraska at Omaha
+course_meetingtime: "Tuesdays/Thursdays, 10:0 to 11:15 a.m."
+course_number: "HIST 2990"
+course_room: "TBD"
+course_semester: "Spring 2018"
+course_twitter: "#uno_dh"
 # course_blog: 
-instructor_email: jheppler@stanford.edu
-instructor_name: Jason Heppler
-instructor_office: "Lane History Corner 122"
-instructor_officehours: "Tuesday, 10:00am-11:30am, or by appointment"
+instructor_email: jheppler@unomaha.edu
+instructor_name: Dr. Jason Heppler
+instructor_office: "Criss Library 215"
+instructor_officehours: "Wednesday, 9:30am-11:30am, or by appointment"
 instructor_skype: hepplerj
 # instructor_officehours_link: http://jasonheppler.org/officehours
 instructor_website: http://jasonheppler.org

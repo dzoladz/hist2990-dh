@@ -1,6 +1,6 @@
 ---
 layout: page
-order: 4
+order: 5
 title: Course Policies
 permalink: '/policies/'
 ...
@@ -8,9 +8,7 @@ permalink: '/policies/'
 ### Assignments
 
 I may change due dates or assignments. I will always give you plenty of
-notice of changes, which will always be intended for your benefit.
-
-Students must satisfactorily complete all assignments (including
+notice of changes, which will always be intended for your benefit. Students must satisfactorily complete all assignments (including
 participation assignments) in order to pass this course.
 
 ### Academic integrity
@@ -27,12 +25,16 @@ everything that you write.
 
 ### Late work
 
-**Late work will not be accepted.**. If an assignment is late, it is an automatic no credit / zero. 
+**Late work will not be accepted**. If an assignment is late, it is an automatic no credit / zero. 
 
 Exceptions to this policy may (very rarely) be made, but only when there 
 are extenuating circumstances such as a personal emergency or an illness 
 requiring professional medical attention. These circumstances must be 
 documented to my satisfaction and brought to my attention *before* the deadline for an assignment arrives.
+
+#### 48-Hour Policy
+
+With that said, I know things can get stressful during the quarter. To help you do your best work, I offer a 48-hour extension policy. Each student will get 48 hours that they can "spend" in 12 hour increments. You can only use this on blog assignments and on components of your final project. To use this, email me before the assignment is due, letting me know you're using it, and after you've completed the assignment so I can mark it as done.
 
 ### Participation and attendance
 
@@ -56,9 +58,9 @@ for office hours by e-mailing me. If none of my scheduled office hours
 work for you, we can find another time that does. From time to time I
 may offer online office hours on Slack.
 
-For all other communications I prefer e-mail \<<jheppler@stanford.edu>\>.
+I prefer Slack for most communication, but you can also contact me via \<<jheppler@stanford.edu>\>.
 I will reply to your messages in a timely manner (but never on a Sunday). 
-**Don't expect an immediate response**. I will follow up with you within twenty-four hours.
+**However, don't expect an immediate response**. I will follow up with you within twenty-four hours.
 
 I will send official course communications to your Stanford e-mail
 address, which you should check regularly.

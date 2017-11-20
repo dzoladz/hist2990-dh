@@ -5,7 +5,7 @@ task :preview do
 
   puts "Previewing the site locally with Jekyll."
 
-  jekyllPid  = Process.spawn("bundle exec jekyll serve --watch --incremental --config _config.yml,_config-pow.yml")
+  jekyllPid  = Process.spawn("bundle exec jekyll serve --watch --incremental --config _config.yml")
 
   trap("INT") {
     [jekyllPid].each { |pid| Process.kill(9, pid) rescue Errno::ESRCH }
@@ -31,7 +31,7 @@ task :rsync do
   rsync_delete   = true
   rsync_options  = "--checksum --stats -avze"
   public_dir     = "public" 
-  document_root  = "~/public_html/jasonheppler/courses/dph.2016/"
+  document_root  = "~/public_html/jasonheppler/courses/dh.2018/"
 
   exclude = ""
   if File.exists?('./rsync-exclude')
@@ -57,7 +57,7 @@ task :syllabus_cat do
 end
 
 task :syllabus_pdf do
-  sh %[pandoc religion-capitalism.print-syllabus.edited.md -o dph.print-syllabus.pdf]
+  sh %[pandoc dph.print-syllabus.edited.md -o dph.print-syllabus.pdf]
 end
 
 CLOBBER.include('public/*')
