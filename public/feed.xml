@@ -3,10 +3,10 @@
   <channel>
     <title>Introduction to Digital Humanities</title>
     <description></description>
-    <link>http://jasonheppler.org/courses/dh.2018//courses/dh.2018/</link>
-    <atom:link href="http://jasonheppler.org/courses/dh.2018//courses/dh.2018/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Nov 2017 10:57:12 -0600</pubDate>
-    <lastBuildDate>Fri, 17 Nov 2017 10:57:12 -0600</lastBuildDate>
+    <link>http://jasonheppler.org/courses/dh.2018s//courses/dh.2018s/</link>
+    <atom:link href="http://jasonheppler.org/courses/dh.2018s//courses/dh.2018s/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Tue, 28 Nov 2017 10:58:33 -0600</pubDate>
+    <lastBuildDate>Tue, 28 Nov 2017 10:58:33 -0600</lastBuildDate>
     <generator>Jekyll v3.0.5</generator>
     
       <item>
@@ -24,8 +24,8 @@
 &lt;p&gt;Check out the &lt;a href=&quot;http://jekyllrb.com/docs/home&quot;&gt;Jekyll docs&lt;/a&gt; for more info on how to get the most out of Jekyll. File all bugs/feature requests at &lt;a href=&quot;https://github.com/jekyll/jekyll&quot;&gt;Jekyll’s GitHub repo&lt;/a&gt;. If you have questions, you can ask them on &lt;a href=&quot;https://talk.jekyllrb.com/&quot;&gt;Jekyll Talk&lt;/a&gt;.&lt;/p&gt;
 </description>
         <pubDate>Fri, 27 May 2016 20:52:51 -0500</pubDate>
-        <link>http://jasonheppler.org/courses/dh.2018//courses/dh.2018/jekyll/update/2016/05/27/welcome-to-jekyll/</link>
-        <guid isPermaLink="true">http://jasonheppler.org/courses/dh.2018//courses/dh.2018/jekyll/update/2016/05/27/welcome-to-jekyll/</guid>
+        <link>http://jasonheppler.org/courses/dh.2018s//courses/dh.2018s/jekyll/update/2016/05/27/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://jasonheppler.org/courses/dh.2018s//courses/dh.2018s/jekyll/update/2016/05/27/welcome-to-jekyll/</guid>
         
         
         <category>jekyll</category>

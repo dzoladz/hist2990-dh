@@ -1,7 +1,7 @@
-SYLLABUSFILENAME = stanford.syllabus.hist205f.2014f.pdf
+SYLLABUSFILENAME = uno.syllabus.hist2990.2018s.pdf
 COMPONENTS = syllabus.md.pdf schedule.md.pdf policies.md.pdf
 
-all : $(SYLLABUSFILENAME) 
+all : $(SYLLABUSFILENAME)
 
 $(SYLLABUSFILENAME) : vc $(COMPONENTS)
 	pdftk $(COMPONENTS) cat output $(SYLLABUSFILENAME)
@@ -31,7 +31,7 @@ proposal.md.pdf : proposal.md
 
 # update the version control information
 .PHONY : vc
-vc	: 
+vc	:
 	./vc
 
 clean:

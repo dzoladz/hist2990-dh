@@ -30,8 +30,8 @@ task :rsync do
   ssh_user       = "jasonhep@jasonheppler.org"
   rsync_delete   = true
   rsync_options  = "--checksum --stats -avze"
-  public_dir     = "public" 
-  document_root  = "~/public_html/jasonheppler/courses/dh.2018/"
+  public_dir     = "public"
+  document_root  = "~/public_html/jasonheppler/courses/dh.2018s/"
 
   exclude = ""
   if File.exists?('./rsync-exclude')
@@ -53,11 +53,11 @@ def ok_failed(condition)
 end
 
 task :syllabus_cat do
-  sh %[cd source; cat index.md assignments.md schedule.md policies.md > ../dph.print-syllabus.md]
+  sh %[cd source; cat index.md assignments.md schedule.md > ../hist2990.print-syllabus.md]
 end
 
 task :syllabus_pdf do
-  sh %[pandoc dph.print-syllabus.edited.md -o dph.print-syllabus.pdf]
+  sh %[pandoc hist2990.print-syllabus.md -o hist2990.print-syllabus.pdf]
 end
 
 CLOBBER.include('public/*')

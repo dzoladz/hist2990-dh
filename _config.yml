@@ -1,11 +1,11 @@
 # Site settings
-baseurl: "/courses/dh.2018"
-url: "http://jasonheppler.org/courses/dh.2018/"
+baseurl: "/courses/dh.2018s"
+url: "http://jasonheppler.org/courses/dh.2018s/"
 source: source
 destination: public
 
 # Build settings
-gems: 
+gems:
   - jekyll-pandoc
 markdown: Pandoc
 pandoc:
@@ -19,18 +19,18 @@ draft: true
 
 # Course information
 title: "Introduction to Digital Humanities"
-course_catalog: https://www.unomaha.edu/registrar/catalog.php 
+course_catalog: https://www.unomaha.edu/registrar/catalog.php
 course_credithours: 3
 course_department: Dept. of History
 course_university: Univ. of Nebraska at Omaha
 course_meetingtime: "Tuesdays/Thursdays, 10:0 to 11:15 a.m."
 course_number: "HIST 2990"
-course_room: "TBD"
+course_room: "Room TBD"
 course_semester: "Spring 2018"
 course_twitter: "#uno_dh"
-# course_blog: 
+# course_blog:
 instructor_email: jheppler@unomaha.edu
-instructor_name: Dr. Jason Heppler
+instructor_name: Jason A. Heppler
 instructor_office: "Criss Library 215"
 instructor_officehours: "Wednesday, 9:30am-11:30am, or by appointment"
 instructor_skype: hepplerj

@@ -112,7 +112,7 @@ td {
 }
 
 .footnoteRef {
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 section.footnotes {
@@ -121,6 +121,7 @@ section.footnotes {
 
 figure {
   margin: 0;
+  padding-bottom: 15px;
 }
 
 figure img {
@@ -129,8 +130,8 @@ figure img {
   border: 1px solid gray;
 }
 
-
 figcaption {
-  font-size: 0.9em;
+  font-size: 0.8em;
   margin-left: 3em;
+  font-style: italic;
 }
