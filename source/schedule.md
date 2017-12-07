@@ -350,7 +350,11 @@ Write a blog post about the programming we did in class. Have you programmed bef
 
 - TBD
 
-## Apr. 12: Sustainability and ethics
+## Apr. 12: NO CLASS
+
+Professor away at a conference.
+
+## Apr. 17: Sustainability and ethics
 
 ### Readings
 
@@ -369,35 +373,12 @@ Write a blog post about the programming we did in class. Have you programmed bef
 
 Write a blog post about the sustainability of your work in this course. What would it take to sustain each assignment you created? Which assignments have you been able to export?
 
-## Apr. 17: Climate debates and environmental sustainability
+## Apr. 19: Climate debates and environmental sustainability
 
 ### Readings
 
 - Duncan Geere, "[The environmental impact of streaming music, TV and movies](http://www.wired.co.uk/article/streaming-environmental-impact)," *Wired*, May 11, 2012.
 - Allitt, *A Climate of Crisis*, pp. 298-338. (on Canvas)
-
-## Apr. 19: Narrative and digital media
-
-### Readings
-
-- Janet H. Murray, "From Additive to Expressive Form," in *Hamlet on the Holodeck: The Future of Narrative in Cyberspace*. (on Canvas)
-- Stephen Robertson, “[Doing History in Hypertext](http://quod.lib.umich.edu/j/jahc/3310410.0007.201/--doing-history-in-hypertext?rgn=main;view=fulltext),” *Journal of the Association for History and Computing*, August 2004.
-- William G. Thomas, “[Writing A Digital History Journal Article from Scratch: An Account](http://digitalhistory.unl.edu/essays/thomasessay.php)” (December 2007).
-
-### In class
-
-- TBD
-
-### Assignment
-
-Examine two of the following projects:
-
-- [Snow Fall](http://www.nytimes.com/projects/2012/snow-fall/), *New York Times*, 2012.
-- [A Game of Shark and Minnow](http://www.nytimes.com/newsgraphics/2013/10/27/south-china-sea/), *New York Times*, 2013.
-- [A Perfect Terrorist](http://www.pbs.org/wgbh/pages/frontline/labs/i/perfect-terrorist/), PBS, 2011.
-- [The Last Hunt](http://thelasthunt.nfb.ca/#/thelasthunt), National Film Board of Canada.
-
-Write a review of the projects you examined, in particular comparing how they work as interactive narratives. What works well about their design? What doesn't work as well? What do you find effective or compelling about the layout? Do they make effective use of visualizations? How might such interactivity help us more effectively communicate as historians? Post your review to your blog, writing at least 500 words.
 
 ## Apr. 24
 
