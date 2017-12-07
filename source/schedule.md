@@ -378,6 +378,7 @@ Write a blog post about the sustainability of your work in this course. What wou
 ### Readings
 
 - Duncan Geere, "[The environmental impact of streaming music, TV and movies](http://www.wired.co.uk/article/streaming-environmental-impact)," *Wired*, May 11, 2012.
+- Eric Holthaus, "[Bitcoin could cost us our clean-energy future](https://grist.org/article/bitcoin-could-cost-us-our-clean-energy-future/)," *Grist*, December 5, 2017.
 - Allitt, *A Climate of Crisis*, pp. 298-338. (on Canvas)
 
 ## Apr. 24
