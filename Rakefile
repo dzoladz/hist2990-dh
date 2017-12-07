@@ -31,7 +31,7 @@ task :rsync do
   rsync_delete   = true
   rsync_options  = "--checksum --stats -avze"
   public_dir     = "public"
-  document_root  = "~/public_html/jasonheppler/courses/dh.2018s/"
+  document_root  = "~/teaching.jasonheppler.org/dh.2018s/"
 
   exclude = ""
   if File.exists?('./rsync-exclude')
